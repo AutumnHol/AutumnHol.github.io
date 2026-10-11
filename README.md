@@ -3,9 +3,7 @@
 ---
 ## [Atlanta Redlining and Neighborhood Grades]
 
-!Map of historic redlining grades in Atlanta, Georgia] 
-<img width="4032" height="391" alt="image" src="https://github.com/user-attachments/assets/0233bd74-4493-4c60-9e93-876ebca7f6ee" />
-
+!Map of historic redlining grades in Atlanta, Georgia] !(images/COVIDAUTUMN.png)
 
 **Question:** [How were neighborhoods in Atlanta historically graded by redlining policies and where were those neighborhoods located?]
 
@@ -21,9 +19,7 @@
 --7--
 ## [COVID-19 Rates by ZIP code, New York, 2020]
 
-!Map Showing COVID-19 case rates by ZIP code in New York City during 2020] 
-<img width="4032" height="465" alt="image" src="https://github.com/user-attachments/assets/49bbcbe2-537b-411a-a408-83e624517efd" />
-
+!Map Showing COVID-19 case rates by ZIP code in New York City during 2020] !(images/EnRich Lining, AUTUMN.png)
 
 **Question:** [How did COVID-19 case rates vary across different ZIP codes in New York during 2020?]
 
