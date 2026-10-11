@@ -18,7 +18,7 @@
 --7--
 ## [COVID-19 Rates by ZIP code, New York, 2020]
 
-!Map Showing COVID-19 case rates by ZIP code in New York City during 2020](images/COVIDAUTUMN.png)
+!Map Showing COVID-19 case rates by ZIP code in New York City during 2020](images/Project 2 COVID.svg)
 
 **Question:** [How did COVID-19 case rates vary across different ZIP codes in New York during 2020?]
 
