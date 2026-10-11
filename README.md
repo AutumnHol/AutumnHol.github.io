@@ -3,7 +3,9 @@
 ---
 ## [Atlanta Redlining and Neighborhood Grades]
 
-!Map of historic redlining grades in Atlanta, Georgia] (images/EnRich Lining, AUTUMN.png)
+!Map of historic redlining grades in Atlanta, Georgia] <img width="4032" height="442" alt="image" src="https://github.com/user-attachments/assets/111fed2e-27d6-4535-ac9f-71dbb28253c1" />
+
+
 **Question:** [How were neighborhoods in Atlanta historically graded by redlining policies and where were those neighborhoods located?]
 
 **Data:** [This map uses historical redlining data that if from the Mapping Inequality Project made and published by University of Richmond. The data is based on Home Owners Loan corporation also knows as HOLC, where the map where created in 1930s and was accessed through Mapping Inequality datatbase.]
@@ -13,11 +15,14 @@
 **A design choice I made and why:** [I kept the original redlining colors because they are widely know and could be connected to the old historical grading system. Using these colors helps the viewers understand and quickly identify areas that received different grades and patterns the map shows.]
 
 **A limitation of this map:** [This map has a limitation of it only showing how maps were graded during the redlining era. It does not explain why each area was given those grade, nor does it show current economic conditions now. Neighborhoods have changed astronomically since the 1930s. Viewers should not assume that present day conditions are the same as the historical map shows them.]
+
 ---
 --7--
 ## [COVID-19 Rates by ZIP code, New York, 2020]
 
-!Map Showing COVID-19 case rates by ZIP code in New York City during 2020] (images/EnRich Lining, AUTUMN.png)
+!Map Showing COVID-19 case rates by ZIP code in New York City during 2020] <img width="4032" height="303" alt="image" src="https://github.com/user-attachments/assets/2d6e1dd9-859c-44f2-9b68-79db0d63e3a0" />
+
+
 **Question:** [How did COVID-19 case rates vary across different ZIP codes in New York during 2020?]
 
 **Data:** [This map uses COVID-19 case rates data published by New York City Department of Health and Mental Hygiene and ZIP code boundary data from the U.S Census Bureau. The datasets were combined to show how the case rates differ between neighborhoods through out New York City.]
@@ -27,6 +32,7 @@
 **A design choice I made and why:** [I used light to dark color ramp because it is easy for anyone reading the map to understand. Lighter colors show the lower case rates while the darker show higher case rates. It allows viewers to quickly identify patterns across the city.]
 
 **A limitation of this map:** [One limitation is that this map only shows reported case rates from 2020 and no further. It does not explain why some zip codes had higher rates than others. Factors like population density, healthcare access and socioeconomic conditions are not shown in the map.] 
+
 ---
 ## Data sources
 - [Mapping Inequality: Redlining in New Deal America, University of Richmond, https://dsl.richmond.edu/panorama/redlining/]
