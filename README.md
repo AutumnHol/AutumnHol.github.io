@@ -4,7 +4,6 @@
 ## [Atlanta Redlining and Neighborhood Grades]
 
 !Map of historic redlining grades in Atlanta, Georgia] (images/EnRich Lining, AUTUMN.png)
-
 **Question:** [How were neighborhoods in Atlanta historically graded by redlining policies and where were those neighborhoods located?]
 
 **Data:** [This map uses historical redlining data that if from the Mapping Inequality Project made and published by University of Richmond. The data is based on Home Owners Loan corporation also knows as HOLC, where the map where created in 1930s and was accessed through Mapping Inequality datatbase.]
@@ -18,8 +17,7 @@
 --7--
 ## [COVID-19 Rates by ZIP code, New York, 2020]
 
-!Map Showing COVID-19 case rates by ZIP code in New York City during 2020](images/Project 2 COVID.svg)
-
+!Map Showing COVID-19 case rates by ZIP code in New York City during 2020] (images/EnRich Lining, AUTUMN.png)
 **Question:** [How did COVID-19 case rates vary across different ZIP codes in New York during 2020?]
 
 **Data:** [This map uses COVID-19 case rates data published by New York City Department of Health and Mental Hygiene and ZIP code boundary data from the U.S Census Bureau. The datasets were combined to show how the case rates differ between neighborhoods through out New York City.]
